@@ -1,2 +1,4 @@
-# zef-monolog-formatter
-Monolog formatter with timestamp in milliseconds and caller information
+# More detailed log format
+
+
+

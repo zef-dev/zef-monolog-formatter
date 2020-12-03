@@ -1,0 +1,26 @@
+{
+	"name" : "zef-dev/zef-monolog-formatter",
+	"type" : "library",
+	"description" : "Monolog formatter with timestamp in milliseconds and caller information",
+	"homepage" : "https://github.com/zef-dev/zef-monolog-formatter",
+	"keywords" : [
+		"monolog"
+	],
+	"license" : "MIT",
+	"require" : {
+		"php" : "^7.2",
+        "monolog/monolog" : "^2.0.2"
+	},
+	"autoload" : {
+		"psr-4" : {
+			"Zef\\Monolog\\" : "src/Zef/Monolog"
+		}
+	},
+	"config" : {
+		"platform" : {
+			"php" : "7.2"
+		},
+		"sort-packages" : true
+	},
+	"minimum-stability" : "beta"
+}
