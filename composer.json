@@ -3,6 +3,7 @@
 	"type" : "library",
 	"description" : "Monolog formatter with timestamp in milliseconds and caller information",
 	"homepage" : "https://github.com/zef-dev/zef-monolog-formatter",
+    "version": "1.0.0",
 	"keywords" : [
 		"monolog"
 	],
